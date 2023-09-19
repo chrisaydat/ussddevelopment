@@ -1,6 +1,7 @@
 <?php 
 
 header("content-type: text/plain");
+include("connection.php");
 include("functions.php");
 
 // $session_id = $_POST['sessionId'];
