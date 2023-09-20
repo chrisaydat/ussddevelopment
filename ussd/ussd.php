@@ -1,6 +1,6 @@
 <?php 
 
-// Built by Verge Financial Technologies LTD an Aydat, Inc. Company aydat.org
+// Built by Verge Financial Technologies LTD an Aydat, Inc. Company aydat.org for Dyrect
 // This is the main file that will be accessed by Africa's Talking API
 
 
