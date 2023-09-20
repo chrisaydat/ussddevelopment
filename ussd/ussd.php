@@ -1,5 +1,9 @@
 <?php 
 
+// Built by Verge Financial Technologies LTD an Aydat, Inc. Company aydat.org
+// This is the main file that will be accessed by Africa's Talking API
+
+
 header("content-type: text/plain");
 include("connection.php");
 include("functions.php");
